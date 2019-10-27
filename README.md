@@ -4,7 +4,7 @@ Awesome Mechatronics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <div align='center'>
-<img width="35%" hight="35%" src='Mecha_workaround.svg'/>
+<img width="30%" hight="30%" src='Mecha_workaround.svg'/>
 </div>
 
 > Mechatronics, which is also called mechatronic engineering, is a multidisciplinary branch of engineering that focuses on the engineering of both electrical and mechanical systems, and also includes a combination of robotics, electronics, computer, telecommunications, systems, control, and product engineering. (Wikipedia)
