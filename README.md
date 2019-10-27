@@ -79,35 +79,35 @@ It's an attempt to gather useful materials in one place for everybody who wants 
 
 ## Software and Libraries ##
 
-[**SolidWorks**](https://www.solidworks.com) A CAD software , with many featuers, like simulating the physics as well as the mechanical featuers of the machine parts. :dollar:
+* [**SolidWorks**](https://www.solidworks.com) A CAD software , with many featuers, like simulating the physics as well as the mechanical featuers of the machine parts. :dollar:
 
-[**Factor I/O**](https://factoryio.com/)  An automation simluation program where a real PLC can be programmed to control the simulated environment. :dollar:
+* [**Factor I/O**](https://factoryio.com/)  An automation simluation program where a real PLC can be programmed to control the simulated environment. :dollar:
 
 
-[**Siemens Step 7**](https://support.industry.siemens.com/cs/document/109761679/step-7-v5-6-sp1-step-7-professional-2017-sr1-trial-download?dti=0&lc=en-WW) Siemens PLCs Official IDE for PLC Programming. :dollar:
+* [**Siemens Step 7**](https://support.industry.siemens.com/cs/document/109761679/step-7-v5-6-sp1-step-7-professional-2017-sr1-trial-download?dti=0&lc=en-WW) Siemens PLCs Official IDE for PLC Programming. :dollar:
 
-[**Fritzing**](https://fritzing.org/home/) A program for designing the different electronics combinations like sensors and actuators as well as wiring them.
+* [**Fritzing**](https://fritzing.org/home/) A program for designing the different electronics combinations like sensors and actuators as well as wiring them.
 
-[**Proteus**](https://www.labcenter.com) PCB Design and Circuit Simulator Software.
+* [**Proteus**](https://www.labcenter.com) PCB Design and Circuit Simulator Software.
 
-[**LabView**](https://www.ni.com/en-us/shop/labview.html) System-design platform and development environment for a visual programming language.
+* [**LabView**](https://www.ni.com/en-us/shop/labview.html) System-design platform and development environment for a visual programming language.
 
-[**Arduino**](https://www.arduino.cc/) An Open-Source hardware devices, with many brands and types used in IoT
+* [**Arduino**](https://www.arduino.cc/) An Open-Source hardware devices, with many brands and types used in IoT
 
-[**Raspery Pi**](https://www.raspberrypi.org/) A popular single-board computer which can process real time sensors feed like camera video stream.
+* [**Raspery Pi**](https://www.raspberrypi.org/) A popular single-board computer which can process real time sensors feed like camera video stream.
 
-[**TensorFlow**](https://www.tensorflow.org) TensorFlow is an end-to-end open source platform for machine learning.
+* [**TensorFlow**](https://www.tensorflow.org) TensorFlow is an end-to-end open source platform for machine learning.
 
-[**OpenCV**](https://opencv.org) Library of programming functions mainly aimed at real-time computer vision.
+* [**OpenCV**](https://opencv.org) Library of programming functions mainly aimed at real-time computer vision.
 
-[**ROS**](http://www.ros.org/)
+* [**ROS**](http://www.ros.org/)
 The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
-[**Gazebo**](http://gazebosim.org/)
+* [**Gazebo**](http://gazebosim.org/)
 Robot Simulator which integrates well with ROS.
 
 
-[**Blender**](https://www.blender.org) An open source 3D modelling program. it can be used as CAD program but it has a steep learning curve.
+* [**Blender**](https://www.blender.org) An open source 3D modelling program. it can be used as CAD program but it has a steep learning curve.
 ## Journals and Conferences ##
 
 * [Mechatronics Elsevier Journal](http://www.journals.elsevier.com/mechatronics)
