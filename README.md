@@ -45,7 +45,7 @@ It's an attempt to gather useful materials in one place for everybody who wants 
 
 * [Mechatronic Systems: Modelling and Simulation with HDLs](https://www.amazon.com/Mechatronic-Systems-Modelling-Simulation-HDLs/dp/0470849797)
 
-### Industrial Automation Books ###
+#### Industrial Automation ####
 
 * [Arduino Home Automation Projects : Automate your Home using the powerful Arduino Platform](https://www.amazon.com/Arduino-Home-Automation-Projects-Experience/dp/1783986069)
 
@@ -55,14 +55,14 @@ It's an attempt to gather useful materials in one place for everybody who wants 
 
 * [Programmable Logic Controllers - Fifth edition - Frank D. Petruzella](https://www.amazon.com/Programmable-Logic-Controllers-Frank-Petruzella/dp/0073373842)
 
-### Machine Vision ###
+#### Machine Vision ####
 
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 
-### Robotics ###
+#### Robotics ####
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
 
-### Artificail Intelllegence ###
+#### Artificial Intelligence ####
 
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 
