@@ -88,9 +88,9 @@ It's an attempt to gather useful materials in one place for everybody who wants 
 
 * [**Fritzing**](https://fritzing.org/home/) A program for designing the different electronics combinations like sensors and actuators as well as wiring them.
 
-* [**Proteus**](https://www.labcenter.com) PCB Design and Circuit Simulator Software.
+* [**Proteus**](https://www.labcenter.com) PCB Design and Circuit Simulator Software. :dollar:
 
-* [**LabView**](https://www.ni.com/en-us/shop/labview.html) System-design platform and development environment for a visual programming language.
+* [**LabView**](https://www.ni.com/en-us/shop/labview.html) System-design platform and development environment for a visual programming language. :dollar:
 
 * [**Arduino**](https://www.arduino.cc/) An Open-Source hardware devices, with many brands and types used in IoT
 
