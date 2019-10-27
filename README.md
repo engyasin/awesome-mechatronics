@@ -1,14 +1,17 @@
 Awesome Mechatronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================
 
-
+<br>
 
 <div align='center'>
 <img width="25%" hight="25%" src='Mecha_workaround.svg'/>
 </div>
 
+<br>
+
 > Mechatronics, which is also called mechatronic engineering, is a multidisciplinary branch of engineering that focuses on the engineering of both electrical and mechanical systems, and also includes a combination of robotics, electronics, computer, telecommunications, systems, control, and product engineering. (Wikipedia)
 
+<br>
 
 The following list is a combination of various books, courses and other resources related to the mechatronic engineering. However, becuase Mechatronics is a board term that conatins many fields, the links below are fouced on the mechatronic point of view for the different topics. Additionally, resources for mechatronics applications are also listed.
 
