@@ -4,23 +4,23 @@ Awesome Mechatronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d73
 <br>
 
 <div align='center'>
-<img width="25%" hight="25%" src='Mecha_workaround.svg'/>
+<img width="25%" height="25%" src='Mecha_workaround.svg'/>
 </div>
 
 <br>
 
-> Mechatronics, which is also called mechatronic engineering, is a multidisciplinary branch of engineering that focuses on the engineering of both electrical and mechanical systems, and also includes a combination of robotics, electronics, computer, telecommunications, systems, control, and product engineering. [(Wikipedia)](https://en.wikipedia.org/wiki/Mechatronics)
+> Mechatronics, which is also called mechatronic engineering, is a multidisciplinary branch of engineering that focuses on the engineering of both electrical and mechanical systems, and also includes a combination of robotics, electronics, computer systems, telecommunications, systems, control, and product engineering. [(Wikipedia)](https://en.wikipedia.org/wiki/Mechatronics)
 
 <br>
 
-The following list is a combination of various books, courses and other resources related to the mechatronic engineering. However, becuase Mechatronics is a board term that conatins many fields, the links below are fouced on the mechatronic point of view for the different topics. Additionally, resources for mechatronics applications are also listed.
+The following list is a combination of various books, courses and other resources related to mechatronic engineering. However, because Mechatronics is a broad term that contains many fields, the links below are focused on the mechatronic point of view for the different topics. Additionally, resources for mechatronics applications are also listed.
 
-It's an attempt to gather useful materials in one place for everybody who wants to learn more about the mechatronic engineering.
+It's an attempt to gather useful materials in one place for everybody who wants to learn more about mechatronic engineering.
 
 
 ## Courses ##
 
-* [Learn 5 PLCs in a Day](https://www.udemy.com/course/nfi-plc-online-leaning/) **Udemy**
+* [Learn 5 PLCs in a Day](https://www.udemy.com/course/nfi-plc-online-learning/) **Udemy**
 
 * [From Wire to PLC: a bootcamp in industrial automation](https://www.udemy.com/course/from-wire-to-plc-a-to-z-compilation/) **Udemy**
 
@@ -68,33 +68,33 @@ It's an attempt to gather useful materials in one place for everybody who wants 
 
 
 
-## Programming Langauges ##
+## Programming Languages ##
 
-* [C/C++ langauges](https://en.cppreference.com/w/) Important langauge for the mechatronic engineer
+* [C/C++ languages](https://en.cppreference.com/w/) Important language for the mechatronic engineer
 
-* [MATLAB](https://www.mathworks.com/products/matlab.html) A Program with very starter friendly interface with many toolboxes covering almost all of the mechatronics topics. :dollar:
+* [MATLAB](https://www.mathworks.com/products/matlab.html) A program with very beginner friendly interface with many toolboxes covering almost all of the mechatronics topics. :dollar:
 
-* [Python](https://www.python.org) A rising langauge with shorter development time.
+* [Python](https://www.python.org) A rising language with shorter development time.
 
 
 ## Software and Libraries ##
 
-* [**SolidWorks**](https://www.solidworks.com) A CAD software , with many featuers, like simulating the physics as well as the mechanical featuers of the machine parts. :dollar:
+* [**SolidWorks**](https://www.solidworks.com) A CAD software, with many features, like simulating the physics as well as the mechanical features of the machine parts. :dollar:
 
-* [**Factor I/O**](https://factoryio.com/)  An automation simluation program where a real PLC can be programmed to control the simulated environment. :dollar:
+* [**Factory I/O**](https://factoryio.com/)  An automation simulation program where a real PLC can be programmed to control the simulated environment. :dollar:
 
 
-* [**Siemens Step 7**](https://support.industry.siemens.com/cs/document/109761679/step-7-v5-6-sp1-step-7-professional-2017-sr1-trial-download?dti=0&lc=en-WW) Siemens PLCs Official IDE for PLC Programming. :dollar:
+* [**Siemens Step 7**](https://support.industry.siemens.com/cs/document/109761679/step-7-v5-6-sp1-step-7-professional-2017-sr1-trial-download?dti=0&lc=en-WW) Siemens' PLCs official IDE for PLC Programming. :dollar:
 
 * [**Fritzing**](https://fritzing.org/home/) A program for designing the different electronics combinations like sensors and actuators as well as wiring them.
 
-* [**Proteus**](https://www.labcenter.com) PCB Design and Circuit Simulator Software. :dollar:
+* [**Proteus**](https://www.labcenter.com) PCB design and circuit simulator software. :dollar:
 
-* [**LabView**](https://www.ni.com/en-us/shop/labview.html) System-design platform and development environment for a visual programming language. :dollar:
+* [**LabVIEW**](https://www.ni.com/en-us/shop/labview.html) System-design platform and development environment for a visual programming language. :dollar:
 
-* [**Arduino**](https://www.arduino.cc/) An Open-Source hardware devices, with many brands and types used in IoT
+* [**Arduino**](https://www.arduino.cc/) Open-source hardware devices, with many brands and types used in IoT
 
-* [**Raspery Pi**](https://www.raspberrypi.org/) A popular single-board computer which can process real time sensors feed like camera video stream.
+* [**Raspberry Pi**](https://www.raspberrypi.org/) A popular single-board computer which can process real-time sensor feeds such as camera streams.
 
 * [**TensorFlow**](https://www.tensorflow.org) TensorFlow is an end-to-end open source platform for machine learning.
 
@@ -107,7 +107,7 @@ The Robot Operating System (ROS) is a flexible framework for writing robot softw
 Robot Simulator which integrates well with ROS.
 
 
-* [**Blender**](https://www.blender.org) An open source 3D modelling program. it can be used as CAD program but it has a steep learning curve.
+* [**Blender**](https://www.blender.org) An open source 3D modeling program. It can be used as a CAD program but it has a steep learning curve.
 ## Journals and Conferences ##
 
 * [Mechatronics Elsevier Journal](http://www.journals.elsevier.com/mechatronics)
@@ -126,7 +126,7 @@ Robot Simulator which integrates well with ROS.
 
 * [**PLCs**](https://en.wikipedia.org/wiki/Programmable_logic_controller) Programmable logic controller.
 
-* [**Hybrid Cars**](https://en.wikipedia.org/wiki/Hybrid_vehicle) uses two or more distinct types of power, such as internal combustion engine to drive an electric generator that powers an electric motor.
+* [**Hybrid Cars**](https://en.wikipedia.org/wiki/Hybrid_vehicle) Uses two or more distinct types of power, such as internal combustion engine to drive an electric generator that powers an electric motor.
 
 * [**Washing Machines**](https://en.wikipedia.org/wiki/Washing_machine)
 
