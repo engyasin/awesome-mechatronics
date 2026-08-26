@@ -453,6 +453,7 @@ The physics-engine landscape has been rewritten by GPU acceleration.
 | [Isaac Lab](https://github.com/isaac-sim/IsaacLab) | 🆓 | Large-scale robot learning; v3.0 builds on Newton + PhysX |
 | [Isaac Sim](https://developer.nvidia.com/isaac/sim) | 🆓 | Photorealistic digital twins, synthetic data, sensor simulation |
 | [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 🆓 | Fast multi-platform GPU physics; strong on generative scene creation |
+| [OmniSim](https://github.com/omnilink-tech/omnisim) | 🆓 | Agent-operated robot simulation: URDF/STEP import, HTTP/MCP control, synthetic-data capture and measured capability benchmarks; Windows beta, Linux source build |
 | [Gazebo](https://gazebosim.org/) | 🆓 | ROS-native system-level simulation; still the right tool for full-robot integration testing |
 | [Webots](https://cyberbotics.com/) | 🆓 | Education; batteries included, low setup cost ⭐ |
 | [CoppeliaSim](https://www.coppeliarobotics.com/) | 🆓 edu | Teaching kinematics; used by the Modern Robotics course |
