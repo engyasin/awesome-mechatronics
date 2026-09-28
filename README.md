@@ -389,6 +389,7 @@ Running inference on the machine rather than in the cloud is now a normal part o
 - 🔧 [NVIDIA Isaac Sim / Omniverse](https://developer.nvidia.com/isaac/sim) 🆓 — OpenUSD-based digital twins of full production cells.
 - 🔧 [Visual Components](https://www.visualcomponents.com/) 💵 / [Process Simulate](https://plm.sw.siemens.com/en-US/tecnomatix/products/process-simulate-software/) 💵 — commercial virtual commissioning.
 - 🔧 [Ignition](https://inductiveautomation.com/) 💵 — SCADA/MES platform with a very good free trial mode for learning.
+- 🔧 [PLC Simulator](https://plcsimulationsoftware.com/) 💵 — browser-based ladder-logic practice against simulated machines (conveyors, tanks, pick-and-place) with automatic grading; free tier and a no-install first exercise. 🧪
 
 ### Connectivity, information models and digital twins
 
