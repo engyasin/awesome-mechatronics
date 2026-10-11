@@ -256,6 +256,7 @@ Three rules that follow, and that no amount of learning removes:
 - 🔧 [SimpleFOC](https://simplefoc.com/) 🆓 — Field-oriented control on Arduino-class hardware. The fastest way to understand BLDC control by doing.
 - 🔧 [ODrive](https://odriverobotics.com/) 💵 / 🔧 [moteus](https://mjbots.com/) 💵 — Open(ish) high-performance BLDC controllers used across the hobby-to-research spectrum.
 - 🔧 [TMotor / CubeMars AK-series](https://www.cubemars.com/) 💵 — the de-facto QDD actuators for legged robot builds.
+- 🔧 [MotionConvert](https://motionconvert.com/) 🆓/💵 — Servo sizing (RMS/peak torque, inertia ratio), motion profiles, gear and belt selection, and a CiA 402 statusword decoder in the browser.
 
 **Selection cheat-sheet:**
 
