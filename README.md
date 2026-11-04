@@ -286,6 +286,7 @@ The idea that the body itself performs computation — that a well-designed grip
 - 📄 [The 2024 Active Metamaterials Roadmap](https://arxiv.org/abs/2411.09711) — 🆓 Shape-morphing metamaterials as embodied intelligence.
 - 📄 [Exploring Embodied Intelligence in Soft Robotics: A Review](https://www.mdpi.com/2313-7673/9/4/248) — *Biomimetics*, 2024. 🆓
 - 📄 [Morphological design methodologies of soft robots](https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2025.100012) — 2025. 🆓 Forward biomimetic vs. inverse morphological design.
+- 🔧 [AgentFEM Morph Lab](https://lab.haoming-luo.com/morph/) — 2026. Browser-based inverse design of planar flexible rods: draw a target shape and explore distributed curvature actuation with a fixed or motorised base; quasi-static, not a dynamics or hardware-control simulator. 🆓 🧪
 
 ### 3.4 Design, simulation and manufacturing tools
 
